@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+}
+#pro{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .container{
+        display: flex ;
+        height: 20%;
+        .cart{
+            display: flex;
+            width: 25%;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            img{
+                width: 264px;
+                height: 264px;
+            }
+            .prom{
+                display: flex;
+                flex-direction: column;
+            }
+        }
+    }
+}
+
+.bton0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 236px; ;
+    height: 49px;
+}
+
+.bton1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 236px; ;
+    height: 49px;
+}
+
+.bton2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 236px; ;
+    height: 49px;
+}
+.bton3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 236px; ;
+    height: 49px;
+}
+.bton4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 236px; ;
+    height: 49px;
+}
+.bton5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 236px; ;
+    height: 49px;
+}
